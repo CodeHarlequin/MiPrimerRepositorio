@@ -1,1 +1,2 @@
 Este es el contendido del fichero 1
+En esta fase se procede a la modificacion del fichero para adaptarnos a los nuevos requriminetos  requerimientos
